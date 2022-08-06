@@ -1,2 +1,0 @@
-FROM quay/ceph/ceph:v16.2.10
-MAINTAINER Q
