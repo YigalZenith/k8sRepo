@@ -1,0 +1,2 @@
+FROM rook/ceph:v1.9.8
+MAINTAINER Q
