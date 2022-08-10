@@ -1,0 +1,1 @@
+FROM longhornio/longhorn-manager:v1.3.0
