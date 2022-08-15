@@ -1,0 +1,1 @@
+FROM openebs/cstor-pool-manager:3.3.0
